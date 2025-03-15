@@ -1,12 +1,29 @@
-# React + Vite
+# 🍽️ Dhaka Delights - Restaurant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Dhaka Delights**, an elegant and user-friendly restaurant website built with **React.js** and **Tailwind CSS**. This website provides an interactive menu, online reservations, and an engaging UI for customers.
 
-Currently, two official plugins are available:
+## 🌍 Live Website  
+🔗 **[Dhaka Delights - Live Demo](https://dhaka-delights-web.surge.sh/)**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
+✅ **Fully Responsive** - Optimized for mobile, tablet, and desktop.  
+✅ **Smooth Navigation** - Interactive and stylish navbar.  
+✅ **Dynamic Menu** - Displays food items with prices.  
+✅ **Table Reservation** - Customers can book tables online.  
+✅ **Shopping Cart** - Add and manage orders easily.  
+✅ **Modern UI** - Clean and minimalistic design with animations.  
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used  
+- **Frontend**: React.js, Tailwind CSS  
+- **State Management**: React Context API  
+- **Routing**: React Router  
+- **Hosting**: Surge.sh  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🤝 Contributing  
+1. Fork the repository.  
+2. Create a feature branch (`git checkout -b feature-name`).  
+3. Commit your changes (`git commit -m "Add new feature"`).  
+4. Push to GitHub (`git push origin feature-name`).  
+5. Open a Pull Request.  
+
+**© 2025 Dhaka Delights** | Crafted with ❤️  
